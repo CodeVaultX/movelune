@@ -4,6 +4,15 @@ A private step counter, home workout and GPS activity tracker for Android. Count
 
 [Türkçe](#türkçe) · [Privacy policy](privacy.md)
 
+<p align="center">
+  <img src="screenshots/today.jpg" width="19%" alt="Today: step ring and streak">
+  <img src="screenshots/workouts.jpg" width="19%" alt="Workouts and programmes">
+  <img src="screenshots/player.jpg" width="19%" alt="Workout player with a 3D guide">
+  <img src="screenshots/route.jpg" width="19%" alt="GPS activity on a map">
+  <img src="screenshots/progress.jpg" width="19%" alt="Progress">
+</p>
+<p align="center"><sub>Today · Workouts · 3D guide · GPS route · Progress</sub></p>
+
 ## Download
 
 - **Android:** coming to Google Play.
@@ -35,6 +44,8 @@ This repository holds the documentation only; the source code is not published h
 Android için gizliliğine saygılı adım sayar, ev antrenmanı ve GPS aktivite uygulaması. Gün boyu adımlarını say, 3D rehberle antrenman yap, yürüyüş, koşu ve bisiklet turlarını kaydet. Hesap yok; verilerin cihazında kalır.
 
 [Gizlilik politikası](privacy.md#türkçe)
+
+<sub>Ekran görüntüleri (yukarıda): Bugün · Antrenmanlar · 3D rehber · GPS rotası · İlerleme</sub>
 
 ### İndir
 
