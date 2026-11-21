@@ -33,7 +33,7 @@ Step counting, all exercises, the ready workouts and GPS recording are free. Mov
 
 ## Support
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 This repository holds the documentation only; the source code is not published here.
 
@@ -67,6 +67,6 @@ Adım sayımı, tüm egzersizler, hazır antrenmanlar ve GPS kaydı ücretsizdir
 
 ### Destek
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 Bu depoda yalnızca belgeler bulunur; kaynak kod burada yayımlanmaz.

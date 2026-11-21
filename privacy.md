@@ -61,7 +61,7 @@ Movelune doesn't give medical advice. If you have a health condition, check with
 
 ## Contact
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 ---
 
@@ -126,4 +126,4 @@ Movelune tıbbi tavsiye vermez. Bir sağlık sorunun varsa egzersizden önce dok
 
 ### İletişim
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
